@@ -1,4 +1,11 @@
-## rubrik_timezone
+---
+layout: "github"
+page_title: "Rubrik : configure_timezone"
+description: |-
+  Set the timezone on a Rubrik CDM cluster.
+---
+
+# assign_sla
 
 Provides the ability to set the time zone that is used by the Rubrik cluster which uses the specified time zone for time values in the web UI, all reports, SLA Domain settings and all other time related operations.
 
